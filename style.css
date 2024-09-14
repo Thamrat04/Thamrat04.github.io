@@ -1,0 +1,115 @@
+body{
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 0px;
+    font-size: 2vw;
+    background-color: rgb(243, 221, 221);
+}
+
+#logo {
+    margin: 0px;
+    padding: 8px;
+    font-family: "Fascinate Inline", "Protest Guerrilla", "Fredoka One";
+    font-size: 3vw;
+    width: 16%;
+}
+
+ul{
+    margin: 0px;
+}
+
+body > header{
+    background-color: rgb(184, 116, 116);
+    color: white;
+    display: flex;
+    height: 11vh;
+    align-items: center;
+    justify-content: space-around;
+    height: 100px;
+}
+
+#nav-ul {
+    display: flex;
+}
+
+#nav-ul > li {
+    padding: 8px;
+    margin: 16px;
+}
+
+
+body > header > nav > ul {
+    list-style: none;
+    text-decoration: none;
+}
+
+.navbutton {
+    color: white;
+    text-decoration: none;
+    padding: 12px;
+    border: 1px solid white;
+    border-radius: 30%;
+}
+
+body > main article {
+    width: 70%;
+    margin: auto;
+}
+
+form {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+body > footer{
+    background-color: rgb(184, 116, 116);
+    display: flex;
+}
+
+img {
+    border-radius: 15%;
+    border-color: rgb(243, 221, 221);
+}
+
+#footer-ul {
+    display: flex;
+    list-style: none;
+}
+
+#footer-ul>div>li{
+    margin-left: 20px;
+}
+
+#footer-ul > div > li > a{
+    text-decoration: none;
+    color: white;
+}
+
+#main-content{
+    display: flex;
+    justify-content: space-between;
+}
+
+#main-content > div{
+    width: 90%;
+}
+
+#img1 > img{
+    width: 40%;
+}
+
+#cite {
+    font-style: italic;
+}
+
+#foot > h2{
+    font-family: "Fascinate Inline",
+        "Protest Guerrilla",
+        "Fredoka One";
+        text-decoration: none;
+        color: white;
+}
+
+
